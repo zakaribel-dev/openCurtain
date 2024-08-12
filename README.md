@@ -6,8 +6,7 @@ Connected servomotor <br>
 Python 3
 
 <br>
-<b>Clone the Repository</b> <br><br>
-
+<b>Clone the Repository</b> <br>
 <br>
 git clone https://github.com/zakaribel-dev/openCurtain.git <br>
 cd openCurtain <br> <br>
