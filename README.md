@@ -9,7 +9,7 @@ Python 3
 Clone the Repository
 
 <br>
-git clone https://github.com/zakaribel-dev/openCurtain.git
+git clone https://github.com/zakaribel-dev/openCurtain.git <br>
 cd openCurtain
 Create a Virtual Environment
 
