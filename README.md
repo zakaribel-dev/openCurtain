@@ -23,7 +23,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 <br>
-Configuration
+<b>Configuration <b/> <br>
 Edit openCurtain.py to adjust the GPIO pin numbers to your cfonfig
 
 <br>
