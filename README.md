@@ -1,8 +1,8 @@
 Curtain Control with Flask and Raspberry Pi
 
 <b>Prerequisites</b> <br> <br>
-Raspberry Pi with Raspberry Pi 
-Connected servomotor
+Raspberry Pi with Raspberry Pi <br>
+Connected servomotor <br>
 Python 3
 
 <br>
