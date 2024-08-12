@@ -24,7 +24,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 ## Configuration
-Edit openCurtain.py to adjust the GPIO pin numbers to your cponfig.
+Edit openCurtain.py to adjust the GPIO pin numbers to your config.
 
 ## Run the Server
 ```bash
