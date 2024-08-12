@@ -1,12 +1,12 @@
 Curtain Control with Flask and Raspberry Pi
 
-Prerequisites
+<b>Prerequisites</b> <br> <br>
 Raspberry Pi with Raspberry Pi 
 Connected servomotor
 Python 3
 
 <br>
-Clone the Repository
+<b>Clone the Repository</b> <br><br>
 
 <br>
 git clone https://github.com/zakaribel-dev/openCurtain.git <br>
