@@ -20,18 +20,18 @@ python3 -m venv venv
 source venv/bin/activate
 
 <br>
-Install Dependencies
+<b>Install Dependencies<b/> <br> <br>
 pip install -r requirements.txt
 
 <br>
 Configuration
-Edit openCurtain.py to adjust the GPIO pin numbers to your configuration.
+Edit openCurtain.py to adjust the GPIO pin numbers to your cfonfig
 
 <br>
-Run the Server
+<b>Run the Server<b/> <br>
 python openCurtain.py
 
 <br>
-Access the Routes
+<b>Access the Routes <b/> <br>
 Open the Curtain: http://<RaspberryPiAddress>:5000/open<br>
 Close the Curtain: http://<RaspberryPiAddress>:5000/close
