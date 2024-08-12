@@ -10,7 +10,7 @@ Clone the Repository
 
 <br>
 git clone https://github.com/zakaribel-dev/openCurtain.git <br>
-cd openCurtain
+cd openCurtain <br>
 Create a Virtual Environment
 
 <br>
