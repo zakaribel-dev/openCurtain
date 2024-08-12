@@ -8,20 +8,18 @@ Python 3
 Installation
 Clone the Repository
 
-bash
-Copier le code
+
 git clone https://github.com/zakaribel-dev/openCurtain.git
 cd openCurtain
 Create a Virtual Environment
 
-bash
-Copier le code
+
 python3 -m venv venv
 source venv/bin/activate
 Install Dependencies
 
-bash
-Copier le code
+
+
 pip install -r requirements.txt
 Configuration
 Edit openCurtain.py to adjust the GPIO pin numbers to your configuration.
