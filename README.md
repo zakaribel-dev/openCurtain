@@ -15,17 +15,15 @@ cd openCurtain <br> <br>
 
 <br>
 python3 -m venv venv
-source venv/bin/activate
+source venv/bin/activate<br><br>
 
-<br>
-<b>Install Dependencies <b/> <br> <br>
-pip install -r requirements.txt
+<b>Install Dependencies <b/> 
+pip install -r requirements.txt<br><br>
 
-<br>
-<b>Configuration <b/> <br><br>
+<b>Configuration <b/> <br>
 Edit openCurtain.py to adjust the GPIO pin numbers to your cfonfig
 
-<br>
+<br><br>
 <b>Run the Server <b/> <br><br>
 python openCurtain.py
 
