@@ -14,7 +14,6 @@ cd openCurtain <br> <br>
 <b>Create a Virtual Environment</b>
 
 <br>
-
 python3 -m venv venv
 source venv/bin/activate
 
@@ -32,5 +31,5 @@ python openCurtain.py
 
 <br>
 <b>Access the Routes <b/> <br>
-Open the Curtain: http://<RaspberryPiAddress>:5000/open<br>
+Open the Curtain: http://<RaspberryPiAddress>:5000/open <br><br>
 Close the Curtain: http://<RaspberryPiAddress>:5000/close
