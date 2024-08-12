@@ -19,7 +19,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 <br>
-<b>Install Dependencies<b/> <br> <br>
+<b>Install Dependencies <b/> <br> <br>
 pip install -r requirements.txt
 
 <br>
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 Edit openCurtain.py to adjust the GPIO pin numbers to your cfonfig
 
 <br>
-<b>Run the Server<b/> <br>
+<b>Run the Server <b/> <br>
 python openCurtain.py
 
 <br>
