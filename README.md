@@ -31,5 +31,5 @@ Modifiez openCurtain.py afin d'ajuster le numéro de pin qui va avec votre confi
 python openCurtain.py
 ```
 ## Les routes
-Ouverture rideau: http://<RaspberryPiAddress>:5000/open
+Ouverture rideau: http://<RaspberryPiAddress>:5000/open <br>
 Fermeture rideau: http://<RaspberryPiAddress>:5000/close
