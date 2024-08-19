@@ -1,35 +1,35 @@
 
-# Curtain Control with Flask and Raspberry Pi
+# Contrôle de rideau avec Flask et Raspberry Pi
 
-## Prerequisites
+## Prérequis
 
 - Raspberry Pi
 - Connected servomotor
 - Python 3
 
-## Clone the Repository
+## Clone le repo
 
 ```bash
 git clone https://github.com/zakaribel-dev/openCurtain.git
 cd openCurtain
 ```
-## Create a Virtual Environment
+## Creez un environnement virtuel
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 ```
-## Install Dependencies
+## Installez les dépendences
 ```bash
 
 pip install -r requirements.txt
 ```
-## Configuration
-Edit openCurtain.py to adjust the GPIO pin numbers to your config.
+## config
+Edit openCurtain.py afin d'ajuster le numéro de pin qui va avec votre config (SERVO_PIN).
 
-## Run the Server
+## Lancez le serveur
 ```bash
 python openCurtain.py
 ```
-## Access the Routes
-Open the Curtain: http://<RaspberryPiAddress>:5000/open
-Close the Curtain: http://<RaspberryPiAddress>:5000/close
+## Les routes
+Ouverture rideau: http://<RaspberryPiAddress>:5000/open
+Fermeture rideau: http://<RaspberryPiAddress>:5000/close
