@@ -24,7 +24,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 ## config
-Edit openCurtain.py afin d'ajuster le numéro de pin qui va avec votre config (SERVO_PIN).
+Modifiez openCurtain.py afin d'ajuster le numéro de pin qui va avec votre config (SERVO_PIN).
 
 ## Lancez le serveur
 ```bash
